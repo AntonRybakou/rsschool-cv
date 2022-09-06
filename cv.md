@@ -15,15 +15,15 @@
 
 ## Projects
 * Portfolio: [GitHub](https://github.com/ToshaBY/portfolio) / [Deploy](https://toshaby.github.io/portfolio/)
->Sass/Scss / TypeScript / React / React-fontawesome / React-scroll / gh-pages / tsparticles / emailjs
+> Sass/Scss / TypeScript / React / React-fontawesome / React-scroll / gh-pages / tsparticles / emailjs
 * Learning cards: [GitHub](https://github.com/AlexNewHere/friday-project) / [Deploy](https://alexnewhere.github.io/friday-project/#/login)
->Team work / GitHub / TypeScript / React / Redux-Toolkit / Formik / React-router-dom / MUI
+> Team work / GitHub / TypeScript / React / Redux-Toolkit / Formik / React-router-dom / MUI
 * To-Do list: [Github](https://github.com/ToshaBY/todo-list) / [Deploy](https://toshaby.github.io/todo-list/)
->TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
+> TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
 * Social network: [Github](https://github.com/ToshaBY/it-incubator-samurai-way)
->TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
+> TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
 * Counter: [GitHub](https://github.com/ToshaBY/counter) / [Deploy](https://toshaby.github.io/counter/)
->TypeScript / React / Redux
+> TypeScript / React / Redux
 
 ## Code examples
 ```
@@ -78,17 +78,17 @@ console.log(countCats(arr));
 
 >**Francisk Skorina Gomel State University**
 >
->Bachelor of science
+> Bachelor of science
 >
->Laser physics and spectrometry
+> Laser physics and spectrometry
 
 ## Work experience
 ### Consulting engineer (2018-2022)
->**Theseus Lab s.r.o.**
+> **Theseus Lab s.r.o.**
 
 ### Deputy Chief of Central Plant Lab (2017-2018)
 
 ### Head of steelcord and wire production department of Central Plant Lab (2016-2017)
 
 ### Engineer of X-RAY analysis (2012-2016)
->**OJSC “BSW - management company of “BMC” holding”**
+> **OJSC “BSW - management company of “BMC” holding”**
