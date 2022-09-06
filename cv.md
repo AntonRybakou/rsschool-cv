@@ -4,15 +4,26 @@
 * Phone: +375 33 683 20 24
 * E-mail: [anton.rybakou@gmail.com](mailto:anton.rybakou@gmail.com)
 * GitHub: [ToshaBY](https://github.com/ToshaBY)
-* LinkenIn: [Anton Rybakov](https://www.linkedin.com/in/tosharybakov/)
+* LinkenIn: [Anton Rybakov](https://www.linkedin.com/in/antonrybakov/)
 * Discord: Tosha (@toshaby)
 
 ## Skills
+* React / Redux / Redux Tool Kit
+* JavaScript / TypeScript
 * HTML-5 / CSS-3
-* JavaScript
 * Git / GitHub
-* Reactjs / Redux
-* Project management
+
+## Projects
+* Portfolio: [GitHub](https://github.com/ToshaBY/portfolio) / [Deploy](https://toshaby.github.io/portfolio/)
+>Sass/Scss / TypeScript / React / React-fontawesome / React-scroll / gh-pages / tsparticles / emailjs
+* Learning cards: [GitHub](https://github.com/AlexNewHere/friday-project) / [Deploy](https://alexnewhere.github.io/friday-project/#/login)
+>Team work / GitHub / TypeScript / React / Redux-Toolkit / Formik / React-router-dom / MUI
+* To-Do list: [Github](https://github.com/ToshaBY/todo-list) / [Deploy](https://toshaby.github.io/todo-list/)
+>TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
+* Social network: [Github](https://github.com/ToshaBY/it-incubator-samurai-way)
+>TypeScript / React / MUI / Storybook / Redux / Redux-Thunk / Axios / Formik / React-router-dom / Unit tests
+* Counter: [GitHub](https://github.com/ToshaBY/counter) / [Deploy](https://toshaby.github.io/counter/)
+>TypeScript / React / Redux
 
 ## Code examples
 ```
@@ -45,10 +56,17 @@ console.log(countCats(arr));
 ```
 
 ## Language
+* English (C1)
+* Belarus (native)
 * Russian (native)
-* English (B2)
 
 ## Education
+
+### Front-end developer (React) (2022)
+
+> **IT-Incubator**
+> 
+> Courses
 
 ### X-RAY diffraction analisys of inorganic materials (2014)
 
@@ -56,16 +74,16 @@ console.log(countCats(arr));
 >
 > Additional education
 
-### Bachelor of science (2007-2012)
+### Physicist. Engineer (2007-2012)
 
 >**Francisk Skorina Gomel State University**
 >
->Physicist. Engineer
+>Bachelor of science
 >
 >Laser physics and spectrometry
 
 ## Work experience
-### Consulting engineer (2018-Present)
+### Consulting engineer (2018-2022)
 >**Theseus Lab s.r.o.**
 
 ### Deputy Chief of Central Plant Lab (2017-2018)
